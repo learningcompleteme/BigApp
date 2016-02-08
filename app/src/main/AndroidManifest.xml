@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".GeoQuiz.QuizActivity"></activity>
+        <activity android:name=".GeoQuiz.QuizActivity" />
+        <activity android:name=".HelloMoon.HelloMoonActicity"></activity>
     </application>
 
 </manifest>
