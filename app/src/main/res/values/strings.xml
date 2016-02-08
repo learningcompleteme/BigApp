@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BigApp</string>
+
+    <string name="toQuizActivity">toQuizActivity</string>
+    <!--<string name="question_test">Shanghai is the largest city inChina.</string>-->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="question_one">1.Wuxi is in Jiangsu.  Wuxi is in Jiangsu.</string>
+    <string name="question_two">2.Shanghai is in Jiangsu.  Wuxi is in Jiangsu.</string>
+    <string name="question_third">3.Suzhou is in Jiangsu.  Wuxi is in Jiangsu.</string>
+    <string name="question_fourth">4.Hangzhou is in Jiangsu.  Wuxi is in Jiangsu.</string>
+    <string name="question_fifth">5.Beijing\'s captial.  Wuxi is in Jiangsu.</string>
+
+</resources>
