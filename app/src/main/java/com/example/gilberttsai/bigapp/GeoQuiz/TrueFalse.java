@@ -1,8 +1,6 @@
 package com.example.gilberttsai.bigapp.GeoQuiz;
 
-/**
- * Created by gilberttsai on 16/2/5.
- */
+
 public class TrueFalse {
     private int mQuestion;
     private boolean mTrueQuestion;
