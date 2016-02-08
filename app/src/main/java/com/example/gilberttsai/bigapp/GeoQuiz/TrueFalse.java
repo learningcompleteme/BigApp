@@ -1,5 +1,5 @@
 package com.example.gilberttsai.bigapp.GeoQuiz;
- //study commit code
+ //study commit code~
 
 public class TrueFalse {
     private int mQuestion;
