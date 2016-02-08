@@ -16,6 +16,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".GeoQuiz.QuizActivity" />
+        <activity android:name=".CriminalIntent.CriminalActivity"></activity>
     </application>
 
 </manifest>
